@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: arial;
+    font-size: 16px;
+    box-sizing: border-box;
+}
+div#search_wrapper {
+    padding: 30px 0px;
+    background: #f0f0f0;
+    border-bottom: 3px solid orange;
+}
+
+p.card-text {
+    color: #b0b0b0;
+}
